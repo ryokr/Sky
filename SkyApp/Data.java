@@ -13,7 +13,7 @@ public class Data {
    }
 
    public String getData() {
-      String filePath = "H:\\Code\\Code\\xSubjects\\T2\\OOP\\Java\\A\\Sky\\" + folderName + "\\" + fileName + ".txt";
+      String filePath = "folderName + "\\" + fileName + ".txt";
 
       StringBuilder sb = new StringBuilder();
 
